@@ -4,18 +4,18 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 
-I started a online Zero to Mastery full Python Developer course 2022 , i recently got my certificate(2023) . The reason i started this course is because i wish to get into coding as a career. I do wish to learn more languages as time goes
+I started a online Zero to Mastery full Python Developer course last year , i recently got my certificate . The reason i started this course is because i wish to get into coding as a career. I do wish to learn more languages as time goes
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [andreccordier@gmail.com](mailto:andreccordier@gmail.com)
 * 🧠  I'm learning Ethical Hacking in python
-* 🤝  I'm open to collaborating on Projects
+* 🤝  I'm open to collaborating on Progects
 
 ### Skills
 
 
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
 </p>
 
 
