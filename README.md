@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 
-I started a online Zero to Mastery full Python Developer course last year , i recently got my certificate . The reason i started this course is because i wish to get into coding as a career. I do wish to learn more languages as time goes
+I started a online Zero to Mastery full Python Developer course 2022 , i recently got my certificate(2023) . The reason i started this course is because i wish to get into coding as a career. I do wish to learn more languages as time goes
 
 * 🌍  I'm based in South Africa
 * ✉️  You can contact me at [andreccordier@gmail.com](mailto:andreccordier@gmail.com)
