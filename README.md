@@ -6,7 +6,7 @@ Python Developer
 
 I started a online Zero to Mastery full Python Developer course last year , i recently got my certificate . The reason i started this course is because i wish to get into coding as a career. I do wish to learn more languages as time goes
 
-* 🌍  I'm based in South Africa
+* 🌍  I'm a South African based in Canada 
 * ✉️  You can contact me at [andreccordier@gmail.com](mailto:andreccordier@gmail.com)
 * 🧠  I'm learning Ethical Hacking in python
 * 🤝  I'm open to collaborating on Progects
