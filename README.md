@@ -8,7 +8,7 @@ I started a online Zero to Mastery full Python Developer course last year , i re
 
 * 🌍  I'm a South African based in Canada 
 * ✉️  You can contact me at [andreccordier@gmail.com](mailto:andreccordier@gmail.com)
-* 🧠  I'm learning Ethical Hacking in python
+* 🧠  I'm learninn Web development at the moment 
 * 🤝  I'm open to collaborating on Progects
 
 ### Skills
